@@ -1,5 +1,7 @@
-p '5'.to_s.class
+age = 25
 
-p 10.to_i.class
+handsome = true
+stupid = false
 
-p 9.99.to_f.class
+p handsome.class
+p stupid.class
