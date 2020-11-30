@@ -1,6 +1,5 @@
-p "5".to_i == 5
+p 'cat'.between?('ant','dog')
 
-a = "6"
-b = 6
+p 20.between?(1,23)
 
-p a.to_i == b
+p 1.2.between?(1, 2)
