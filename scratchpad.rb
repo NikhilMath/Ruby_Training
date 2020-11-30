@@ -1,7 +1,6 @@
-age = 25
+p "5".to_i == 5
 
-handsome = true
-stupid = false
+a = "6"
+b = 6
 
-p handsome.class
-p stupid.class
+p a.to_i == b
