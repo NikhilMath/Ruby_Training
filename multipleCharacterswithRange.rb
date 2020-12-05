@@ -9,3 +9,5 @@ p story[27...39]
 
 p story[32..10000]
 # This does not throw any error or nil, it just goes to the max. 
+
+p story[25..-9]
