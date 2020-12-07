@@ -6,7 +6,7 @@ def odd_or_even(number)
   end
 end
 
-p odd_or_even(10)
+p odd_or_even(11)
 
 
 # grade = "a"
