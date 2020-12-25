@@ -1,5 +1,4 @@
 def fizzbuzz(number)
-  i = 1
   until number > 20
   sleep(1)
     if number % 3 === 0 && number % 5 === 0
